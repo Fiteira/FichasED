@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1647961595 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ficha2\lista.c
+	"lista.h"
+
+1647961713 c:\users\leandro dias\onedrive\ambiente de trabalho\ficha2\lista.h
+	"tipoDados.h"
+
+1647961429 c:\users\leandro dias\onedrive\ambiente de trabalho\ficha2\tipodados.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1647961685 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ficha2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"tipoDados.h"
+	"lista.h"
+
+1648652352 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha2\lista.c
+	"lista.h"
+
+1648650992 c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha2\lista.h
+	"tipoDados.h"
+
+1648052755 c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha2\tipodados.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1648652160 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"tipoDados.h"
+	"lista.h"
+
+1647965628 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha2\palavras.c
+	"tipoDados.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1650378299 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha5\ficha5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1650378269 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha5\ficha5\tipo_dados.c
+	"tipo_dados.h"
+
+1650374785 c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha5\ficha5\tipo_dados.h
+
+1650378185 c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha5\ficha5\lista.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"tipo_dados.h"
+
+1650378942 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha5\ficha5\lista.c
+	"lista.h"
+

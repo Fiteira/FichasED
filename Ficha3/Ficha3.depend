@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1649256319 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"contentor.h"
+	"pilha.h"
+	"uteis.h"
+
+1649256029 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha3\contentor.c
+	"contentor.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649255654 c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha3\contentor.h
+	<time.h>
+
+1649254297 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha3\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1649253324 c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha3\pilha.h
+	"contentor.h"
+
+1647625845 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha3\uteis.c
+	<stdio.h>
+	<stdlib.h>
+	"uteis.h"
+
+1647626769 c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha3\uteis.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

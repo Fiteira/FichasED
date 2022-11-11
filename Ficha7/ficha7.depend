@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653486395 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha5\ficha7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+
+1653488845 source:c:\users\leandro dias\onedrive\ambiente de trabalho\ed\ficha7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+

@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1652106362 source:c:\users\fmorgado\desktop\ficha_hashing_tp2\listagenerica.c
+	"ListaGenerica.h"
+
+1652106362 c:\users\fmorgado\desktop\ficha_hashing_tp2\listagenerica.h
+	<stdio.h>
+	<stdlib.h>
+
+1652106362 source:c:\users\fmorgado\desktop\ficha_hashing_tp2\hashing.c
+	"Hashing.h"
+
+1652105614 c:\users\fmorgado\desktop\ficha_hashing_tp2\hashing.h
+	<stdio.h>
+	<stdlib.h>
+	"ListaGenerica.h"
+	"Pessoa.h"
+
+1652105742 source:c:\users\fmorgado\desktop\ficha_hashing_tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hashing.h"
+
+1652107528 c:\users\fmorgado\desktop\ficha_hashing_tp2\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652107528 source:c:\users\fmorgado\desktop\ficha_hashing_tp2\pessoa.c
+	"Pessoa.h"
+
+1652786813 source:c:\users\fmorgado\downloads\ficha_hashing_tp2\ficha_hashing_tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hashing.h"
+
+1652105614 c:\users\fmorgado\downloads\ficha_hashing_tp2\ficha_hashing_tp2\hashing.h
+	<stdio.h>
+	<stdlib.h>
+	"ListaGenerica.h"
+	"Pessoa.h"
+
+1652786264 c:\users\fmorgado\downloads\ficha_hashing_tp2\ficha_hashing_tp2\listagenerica.h
+	<stdio.h>
+	<stdlib.h>
+
+1652786264 c:\users\fmorgado\downloads\ficha_hashing_tp2\ficha_hashing_tp2\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652786565 source:c:\users\fmorgado\downloads\ficha_hashing_tp2\ficha_hashing_tp2\listagenerica.c
+	"ListaGenerica.h"
+
+1652786264 source:c:\users\fmorgado\downloads\ficha_hashing_tp2\ficha_hashing_tp2\pessoa.c
+	"Pessoa.h"
+
+1652786754 source:c:\users\fmorgado\downloads\ficha_hashing_tp2\ficha_hashing_tp2\hashing.c
+	"Hashing.h"
+
+1652787534 source:c:\users\herrk\documents\programação\c\ed\ficha_hashing_tp2-3\pessoa.c
+	"Pessoa.h"
+
+1652794425 c:\users\herrk\documents\programação\c\ed\ficha_hashing_tp2-3\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652882337 source:c:\users\herrk\documents\programação\c\ed\ficha_hashing_tp2-3\hashing.c
+	"Hashing.h"
+
+1652882252 c:\users\herrk\documents\programação\c\ed\ficha_hashing_tp2-3\hashing.h
+	<stdio.h>
+	<stdlib.h>
+	"ListaGenerica.h"
+	"Pessoa.h"
+	<ctype.h>
+
+1652795652 c:\users\herrk\documents\programação\c\ed\ficha_hashing_tp2-3\listagenerica.h
+	<stdio.h>
+	<stdlib.h>
+
+1652796075 source:c:\users\herrk\documents\programação\c\ed\ficha_hashing_tp2-3\listagenerica.c
+	"ListaGenerica.h"
+
+1652883208 source:c:\users\herrk\documents\programação\c\ed\ficha_hashing_tp2-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hashing.h"
+
+1652305273 source:c:\users\herrk\documents\programação\c\ed\ficha_hashing_tp2-3\utils.c
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1652047930 c:\users\herrk\documents\programação\c\ed\ficha_hashing_tp2-3\utils.h
+	<time.h>
+
